@@ -1,0 +1,95 @@
+{
+    "products": [
+        {
+            "id": "001",
+            "productName": "OnePlus 11 5G + $100 Amazon Gift Card Bundle",
+            "pics": [
+                "https://www.giztop.com/media/catalog/product/cache/dc206057cdd42d7e34b9d36e347785ca/o/n/oneplus_11.png",
+                "https://fdn.gsmarena.com/imgroot/news/23/01/oneplus-11-ofic/inline/-1200/gsmarena_001.jpg",
+                "https://images.indianexpress.com/2023/01/oneplus-11-cloud-11-featured.jpg",
+                "https://www.techritual.com/wp-content/uploads/2023/01/1672047621_OnePlus-11.jpg",
+                "https://www.qucox.com/wp-content/uploads/2023/01/OnePlus-11-1.jpg"
+            ],
+            "specOptions": [
+                {
+                    "category": "Memory",
+                    "options": [
+                        "8GB memory", "12GB memory","16GB memory"
+                    ]
+                },
+                {
+                    "category": "Storage",
+                    "options": [
+                        "256GB SSD Storage",
+                        "512GB SSD Storage",
+                        "1TB SSD Storage",
+                        "2TB SSD Storage"
+                      ]
+                }
+            ],
+            "price": 899.99,
+            "hasDiscount": true,
+            "discountPrice": 699.99,
+            "isNew": true
+        },
+        {
+            "id": "002",
+            "productName": "Apple Mac Studio with M1 Max (Early 2022)",
+            "pics": [
+                "https://www.bhphotovideo.com/images/images500x500/apple_bh_z14j_01_mac_studio_32gb_1tb_m1_max_24c_1646771408_1694907.jpg",
+                "https://static.bhphoto.com/images/multiple_images/images500x500/1646771589_IMG_1710203.jpg",
+                "https://static.bhphoto.com/images/multiple_images/images500x500/1646771589_IMG_1710204.jpg",
+                "https://static.bhphoto.com/images/multiple_images/images500x500/1646771589_IMG_1710205.jpg",
+                "https://static.bhphoto.com/images/multiple_images/images500x500/1646771589_IMG_1710206.jpg"
+            ],
+            "specOptions": [
+                {
+                    "category": "Memory",
+                    "options": [
+                        "32GB Unified memory", "64GB Unified memory"
+                    ]
+                },
+                {
+                    "category": "Storage",
+                    "options": [
+                        "512GB SSD Storage",
+                        "1TB SSD Storage",
+                        "2TB SSD Storage",
+                        "4TB SSD Storage",
+                        "8TB SSD Storage"
+                      ]
+                }
+            ],
+            "price": 1299.99,
+            "isNew": true
+        },
+        {
+            "id": "003",
+            "productName": "Apple 12.9\" iPad Pro M2 Chip (Late 2022, 512GB)",
+            "pics": [
+                "https://www.bhphotovideo.com/images/images500x500/apple_mnxu3ll_a_12_9_ipad_pro_m2_1666178494_1731119.jpg",
+                "https://static.bhphoto.com/images/multiple_images/images500x500/1666178401_IMG_1853800.jpg",
+                "https://static.bhphoto.com/images/multiple_images/images500x500/1666178401_IMG_1853801.jpg",
+                "https://static.bhphoto.com/images/multiple_images/images500x500/1666178401_IMG_1853802.jpg",
+                "https://static.bhphoto.com/images/multiple_images/images500x500/1666178401_IMG_1853803.jpg"
+            ],
+            "specOptions": [
+                {
+                    "category": "Network",
+                    "options": [
+                        "Wi-Fi",
+                        "5G"
+                    ]
+                },
+                {
+                    "category": "Storage",
+                    "options": [
+                        "512GB SSD Storage"
+                      ]
+                }
+            ],
+            "price": 1999.99,
+            "isNew": false
+        }
+    ]
+}
